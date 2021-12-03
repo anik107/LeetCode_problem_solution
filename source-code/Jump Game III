@@ -1,0 +1,27 @@
+class Solution {
+public:
+    bool canReach(vector<int>& a, int st) {
+        int n=a.size();
+        bool vis[n+2];
+        for(int i=0;i<=n;i++)vis[i]=0;
+        queue<int>q;
+        q.push(st);
+        while(!q.empty()){
+            int u=q.front();
+            q.pop();
+            vis[u]=true;
+            if(a[u]==0){
+                return true;
+            }
+            if(u+a[u]<n && !vis[u+a[u]]){
+                q.push(u+a[u]);
+                vis[u+a[u]]=true;
+            }
+            if(u-a[u]>=0 && !vis[u-a[u]]){
+                q.push(u-a[u]);
+                vis[u-a[u]]=true;
+            }
+        }
+        return false;
+    }
+};
