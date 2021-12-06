@@ -24,4 +24,5 @@ public:
             }
         }
         return a[len1][len2];
+    };
     
