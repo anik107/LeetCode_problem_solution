@@ -77,3 +77,17 @@
 [Largest Sum of Averages](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Largest%20Sum%20of%20Averages.cpp)
 
 [Last Stone Weight](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Last%20Stone%20Weight.cpp)
+
+[Longest Arithmetic Subsequence](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Arithmetic%20Subsequence.cpp)
+
+[Longest Common Subsequence](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Common%20Subsequence.cpp)
+
+[Longest Happy Prefix](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Happy%20Prefix.cpp)
+
+[Longest Happy String](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Happy%20String.cpp)
+
+[Longest Increasing Subsequence](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Increasing%20Subsequence.cpp)
+
+[Longest Palindromic Subsequence](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Palindromic%20Subsequence.cpp)
+
+[Maximal Square](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Maximal%20Square.cpp)
