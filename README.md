@@ -47,3 +47,33 @@
 [Divisor Game](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Divisor%20Game.cpp)
 
 [Edit Distance](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Edit%20Distance.cpp)
+
+[Find the Kth Largest Integer in the Array](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array.cpp)
+
+[Frog Jump](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Frog%20Jump.cpp)
+
+[Get Maximum in Generated Array](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Get%20Maximum%20in%20Generated%20Array.cpp)
+
+[Greatest Sum Divisible by Three](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Greatest%20Sum%20Divisible%20by%20Three.cpp)
+
+[House Robber II](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/House%20Robber%20II.cpp)
+
+[House Robber](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/House%20Robber.cpp)
+
+[Integer Replacement](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Integer%20Replacement.cpp)
+
+[Jump Game II](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Jump%20Game%20II.cpp)
+
+[Jump Game III](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Jump%20Game%20III.cpp)
+
+[Jump Game VI](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Jump%20Game%20VI.cpp)
+
+[Jump Game VII](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Jump%20Game%20VII.cpp)
+
+[Jump Game](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Jump%20Game.cpp)
+
+[Largest Divisible Subset](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Largest%20Divisible%20Subset.cpp)
+
+[Largest Sum of Averages](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Largest%20Sum%20of%20Averages.cpp)
+
+[Last Stone Weight](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Last%20Stone%20Weight.cpp)
