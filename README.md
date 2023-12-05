@@ -88,7 +88,7 @@
 
 [Longest Increasing Subsequence](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Increasing%20Subsequence.cpp)
 
-[Longest Palindromic Subsequence](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Palindromic%20Subsequence.cpp)
+[Longest Palindromic Subsequence](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Longest%20Palindromic%20Subsequence.py)
 
 [Maximal Square](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Maximal%20Square.cpp)
 
