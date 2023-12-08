@@ -14,4 +14,3 @@ while i<n and j<n:
     else:
         disc[s[j]]-=1
         j+=1
-print(res)
