@@ -96,4 +96,4 @@
 
 [Sort Vowels in a String](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/sort-vowels-in-a-string.py)
 
-[Longest substring without repeating character](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/longest-substring-without-repeating-character.py)
+[Longest substring without Repeating Character](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/longest-substring-without-repeating-character.py)
