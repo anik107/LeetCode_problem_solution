@@ -96,5 +96,5 @@
 
 [Sort Vowels in a String](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/sort-vowels-in-a-string.py)
 
-[Maximum Subarray](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/Maximum%20Subarray.py)
+[Maximum Subarray](https://github.com/anik107/LeetCode_problem_solution/blob/main/source-code/maximum%20subarray.py)
 
